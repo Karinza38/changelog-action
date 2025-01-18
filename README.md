@@ -1,4 +1,4 @@
-# Changelog Action
+ # Changelog Action
 
 This actions prints a formatted changelog.
 
